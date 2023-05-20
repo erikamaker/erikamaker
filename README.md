@@ -5,4 +5,4 @@ Hi, there! My name's Erika.  I believe the seeds of a good life are self-sustain
 
 I care about UX / UI, and language processing (currently studying AI text completion). Right now, I'm polishing my chatbot 'Davinci-Bot', and working on my roguelite text adventure engine 'Bone Crawl'. When I'm not working on projects, you can find me songwriting, cooking, reading, gaming, or generally haunting my historic Midwestern apartment where I work and live. I have a loving partner and a goofy cat named Gish, who both keep my soft skills sharp. 
 
-If you'd like to learn more, or are interested in collaborating, please reach out!
+If you'd like to learn more, or are interested in collaborating, please reach out! Email: erikamaker@outlook.com
