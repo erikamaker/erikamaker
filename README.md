@@ -1,5 +1,5 @@
 
-# Greetings and Salutations! ✨
+# Salutations! ✨
 
 Hi, there! My name's Erika.  I believe the seeds of a good life are self-sustained and nurtured by daily learning. I have an associate's degree in English (2011), 90% of an abandoned bachelor's in Psychology (2014), and am currently working on my 2nd associate's degree in Computer Programming. Between semesters, I'm also completing the Odin Project fullstack developer path. I'm a Rubyist at heart, and am also comfortable working in JavaScript, HTML, and CSS.
 
