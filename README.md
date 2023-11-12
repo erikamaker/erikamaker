@@ -1,7 +1,7 @@
 
 # Salutations! ⭐
 
-My name's Erika.  I believe the seeds of a good life are sustained and nurtured by daily learning. I have an associate degree in English (2011), 90% of an abandoned bachelor's degree in Psychology (2014), and am chipping away at my 2nd associate degree in Computer Programming. I'm a Rubyist at heart, but am always learning more JavaScript, HTML, CSS, SQL, C#, ASPX, and Dart. I am happily employed on a team of developers at a global manufacturing firm specializing in home furniture and automotive parts. 
+My name's Erika.  I believe the seeds of a good life are sustained and nurtured by daily learning. I have an associate degree in English (2011), 90% of an abandoned bachelor's degree in Psychology (2014), and am chipping away at my 2nd associate degree in Computer Programming. I'm a Rubyist at heart, but am always learning more JavaScript, HTML, CSS, SQL, and C#. I am happily employed on a team of developers at a global manufacturing firm specializing in home furniture and automotive parts. 
 
  
 
