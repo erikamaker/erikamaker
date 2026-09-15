@@ -1,6 +1,6 @@
 
 # Salutations! ⭐
 
-I build and maintain ASP.NET webapps and C# solutions for a global manufacturing firm, and am the technical lead on a data reporting initiative for adopting Power BI. When I'm not working, you can find me songwriting, cooking, reading, gaming, coding, and generally haunting my historic Midwestern apartment. I live with a loving partner and our goofy cat, who both keep my soft skills sharp. I'm enthusiastic about UX/UI, generative AI and LLMs, utility apps and scripts, and game design. 
+I have 3 years of experience making and maintaining ASP.NET, C#, and Power BI solutions for a local branch of Leggett & Platt. When I'm not working, you can find me playing guitar, cooking, reading, gaming, or working on a personal project. Ask me about my text-adventure engine, built on simulated elements and materials that nest into dynamic classes, O(n) all the way down. 
 
 If you'd like to learn more, or are interested in collaborating, please reach out! 
